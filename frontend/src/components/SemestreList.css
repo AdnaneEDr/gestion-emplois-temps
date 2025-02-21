@@ -1,0 +1,19 @@
+.semestre-list {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.semestre-list h2 {
+    margin-bottom: 10px;
+}
+
+.semestre-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.semestre-list li {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,19 @@
+.emploi-du-temps-list {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.emploi-du-temps-list h2 {
+    margin-bottom: 10px;
+}
+
+.emploi-du-temps-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.emploi-du-temps-list li {
+    margin-bottom: 5px;
+}

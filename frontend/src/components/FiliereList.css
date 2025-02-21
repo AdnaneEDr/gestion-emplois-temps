@@ -1,0 +1,19 @@
+.filiere-list {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.filiere-list h2 {
+  margin-bottom: 10px;
+}
+
+.filiere-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.filiere-list li {
+  margin-bottom: 5px;
+}

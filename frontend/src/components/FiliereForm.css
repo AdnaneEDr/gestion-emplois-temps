@@ -1,0 +1,39 @@
+.filiere-form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.filiere-form h2 {
+    margin-bottom: 15px;
+}
+
+.filiere-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.filiere-form input[type="text"],
+.filiere-form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.filiere-form button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.filiere-form button:hover {
+    background-color: #0056b3;
+}
